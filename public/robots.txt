@@ -1,0 +1,8 @@
+# AniVerse
+Your Universe of Anime
+
+User-agent: *
+
+Allow: /
+
+Sitemap: https://aniverse.local/sitemap.xml
